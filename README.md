@@ -1,2 +1,2 @@
 # newrepo1
-Git staging area
+Git staging area, the first commit.
